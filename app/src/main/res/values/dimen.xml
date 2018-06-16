@@ -1,0 +1,12 @@
+<resources>
+    <!-- Margin around the floating action buttonInventoryActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+    <!-- Padding for the activity_editor -->
+    <dimen name="padding">16dp</dimen>
+    <!-- Padding left for the activity_editor -->
+    <dimen name="padding_left">4dp</dimen>
+    <!-- Layout width for the activity_editor -->
+    <dimen name="layout_width">0dp</dimen>
+</resources>
