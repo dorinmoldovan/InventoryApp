@@ -11,8 +11,6 @@ import com.androidbasicsnd.android.inventoryapp.data.ProductContract.ProductEntr
  */
 public class ProductDBHelper extends SQLiteOpenHelper {
 
-    public static final String LOG_TAG = ProductDBHelper.class.getSimpleName();
-
     /**
      * Name of the database file.
      */
