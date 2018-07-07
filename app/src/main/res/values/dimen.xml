@@ -9,4 +9,8 @@
     <dimen name="padding_left">4dp</dimen>
     <!-- Layout width for the activity_editor -->
     <dimen name="layout_width">0dp</dimen>
+    <!-- Padding high -->
+    <dimen name="padding_high">16dp</dimen>
+    <!-- Padding low -->
+    <dimen name="padding_low">8dp</dimen>
 </resources>

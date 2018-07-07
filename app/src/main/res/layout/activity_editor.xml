@@ -152,4 +152,41 @@
         </RelativeLayout>
     </LinearLayout>
 
+    <Button
+        android:id="@+id/button_increase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="increaseQuantity"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="@string/increaseQuantity" />
+
+    <Button
+        android:id="@+id/button_decrease"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="decreaseQuantity"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="@string/decreaseQuantity" />
+
+    <Button
+        android:id="@+id/button_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="deleteProduct"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="@string/deleteProduct" />
+
+    <Button
+        android:id="@+id/button_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="callSupplier"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="@string/callSupplier" />
+
+
 </LinearLayout>
